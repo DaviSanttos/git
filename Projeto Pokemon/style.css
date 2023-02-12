@@ -1,0 +1,58 @@
+
+/* navbar */
+
+#navbar a{
+    color: white;
+}
+
+#navbar li a:hover{
+    color: rgb(0, 0, 0);
+    transition: all 2s;
+}
+
+#btn{
+    color: white;
+    border: 1px solid black;
+    background-color: black;
+}
+
+
+/* cards */
+
+a { 
+    text-decoration: none;
+}
+
+#card{
+    background: rgb(142, 142, 161);
+    border-radius: 15px;
+}
+
+#card .card-body {
+    background: white;
+    border-radius: 0px 0px 15px 15px;
+}
+
+/* conteudos  */
+
+h1, h4, p {
+    color: white;
+}
+
+h5 {
+    text-transform: capitalize;
+    letter-spacing: 0.05em;
+}
+
+#progress-bar {
+    height: 50px;
+}
+
+p {
+    color: beige;
+}
+
+/* #input-pokemon {
+    text-transform: ;
+} */
+
